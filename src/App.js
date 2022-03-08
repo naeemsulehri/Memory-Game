@@ -6,8 +6,6 @@ import { Col, Container, Row } from 'react-bootstrap';
 import Card from './components/Card';
 import Finish from './components/Finish/index.js';
 
-const hello = 'hello';
-
 // FisherYates Modern Shuffle Algorithm
 function swap(array, arrayLength, randomNumber) {
 	const temp = array[arrayLength];
