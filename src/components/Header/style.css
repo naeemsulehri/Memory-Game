@@ -1,0 +1,33 @@
+h1 {
+	padding: 20px;
+	color: rgb(255, 255, 255);
+
+	background: radial-gradient(rgb(216, 48, 26), rgba(212, 13, 13, 0.863));
+	text-align: center;
+	font-family: 'Russo One', sans-serif;
+}
+
+.sub-header {
+	padding: 5px;
+	color: rgba(161, 37, 15, 0.904);
+	font-size: 20px;
+	font-weight: 800;
+	justify-content: center;
+	display: flex;
+	justify-content: space-between;
+}
+
+button {
+	color: rgb(0, 0, 0);
+	border-radius: 8px;
+	background-color: rgb(184, 184, 184);
+	margin-bottom: 8px;
+}
+button:hover {
+	color: rgb(239, 237, 245);
+	background-color: rgb(87, 85, 83);
+	font-weight: 800;
+}
+.bold {
+	text-transform: uppercase;
+}

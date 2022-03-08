@@ -1,0 +1,27 @@
+.MuiDialog-paperWidthSm {
+	max-width: null !important;
+	width: 80% !important;
+	/* background-color: rgb(142, 208, 212) !important; */
+	background: radial-gradient(rgb(ffffff) 60%, rgba(253 126 20));
+
+	border-radius: 30px !important;
+	text-align: center;
+}
+h2 {
+	color: rgb(2, 2, 1) !important;
+	margin-top: 15px;
+}
+.MuiDialogContentText-root {
+	font-size: 20px !important;
+}
+.MuiTypography-h6 {
+	font-size: 30px !important;
+	color: rgb(29, 92, 10) !important;
+	font-weight: 450;
+}
+.MuiDialogActions-root {
+	display: unset !important;
+}
+.MuiButton-label:hover {
+	color: rgb(29, 92, 10) !important;
+}

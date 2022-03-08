@@ -1,0 +1,10 @@
+{
+	"peacock.affectSideBarBorder": true,
+	"peacock.affectStatusAndTitleBorders": true,
+	"peacock.affectTabActiveBorder": true,
+	"peacock.color": "purple",
+	"workbench.colorCustomizations": {
+		"sideBar.border": "#b300b3",
+		"tab.activeBorder": "#b300b3"
+	}
+}
